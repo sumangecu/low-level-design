@@ -1,7 +1,5 @@
 package com.codeswallah.designpatterns.prototype;
 
-import java.util.Objects;
-
 public class Circle extends Shape {
     public int radius;
 
