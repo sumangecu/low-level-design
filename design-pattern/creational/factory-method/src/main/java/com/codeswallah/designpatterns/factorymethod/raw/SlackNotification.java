@@ -1,4 +1,4 @@
-package com.codeswallah.dessignpatterns.factorymethod.raw;
+package com.codeswallah.designpatterns.factorymethod.raw;
 
 public class SlackNotification implements Notification {
     @Override

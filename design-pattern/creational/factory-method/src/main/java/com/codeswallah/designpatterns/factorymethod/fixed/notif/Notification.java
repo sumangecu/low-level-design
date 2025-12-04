@@ -1,4 +1,4 @@
-package com.codeswallah.dessignpatterns.factorymethod.fixed.notif;
+package com.codeswallah.designpatterns.factorymethod.fixed.notif;
 
 public interface Notification {
     void send(String message);

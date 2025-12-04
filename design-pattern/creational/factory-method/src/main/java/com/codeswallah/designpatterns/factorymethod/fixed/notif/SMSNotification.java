@@ -1,4 +1,4 @@
-package com.codeswallah.dessignpatterns.factorymethod.fixed.notif;
+package com.codeswallah.designpatterns.factorymethod.fixed.notif;
 
 public class SMSNotification implements Notification {
     @Override

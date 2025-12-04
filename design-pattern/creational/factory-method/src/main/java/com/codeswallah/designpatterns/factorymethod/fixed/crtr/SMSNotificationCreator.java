@@ -1,4 +1,4 @@
-package com.codeswallah.dessignpatterns.factorymethod.fixed.crtr;
+package com.codeswallah.designpatterns.factorymethod.fixed.crtr;
 
 import com.codeswallah.designpatterns.factorymethod.fixed.notif.Notification;
 import com.codeswallah.designpatterns.factorymethod.fixed.notif.SMSNotification;

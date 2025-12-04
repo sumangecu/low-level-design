@@ -1,4 +1,4 @@
-package com.codeswallah.absfactory.fixed;
+package com.codeswallah.designpatterns.absfactory.fixed;
 
 import com.codeswallah.designpatterns.absfactory.fixed.btn.Button;
 import com.codeswallah.designpatterns.absfactory.fixed.chk.Checkbox;

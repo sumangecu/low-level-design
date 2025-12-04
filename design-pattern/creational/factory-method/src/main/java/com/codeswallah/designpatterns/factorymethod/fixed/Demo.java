@@ -1,4 +1,4 @@
-package com.codeswallah.dessignpatterns.factorymethod.fixed;
+package com.codeswallah.designpatterns.factorymethod.fixed;
 
 import com.codeswallah.designpatterns.factorymethod.fixed.crtr.EmailNotificationCreator;
 import com.codeswallah.designpatterns.factorymethod.fixed.crtr.NotificationCreator;

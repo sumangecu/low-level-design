@@ -1,4 +1,4 @@
-package com.codeswallah.absfactory.fixed.fctry;
+package com.codeswallah.designpatterns.absfactory.fixed.fctry;
 
 import com.codeswallah.designpatterns.absfactory.fixed.btn.Button;
 import com.codeswallah.designpatterns.absfactory.fixed.btn.MacButton;

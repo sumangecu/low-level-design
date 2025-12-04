@@ -6,8 +6,8 @@
     <packaging>pom</packaging>
 
     <parent>
-        <groupId>com.codeswallah.system-design</groupId>
-        <artifactId>d-patterns</artifactId>
+        <groupId>com.codeswallah</groupId>
+        <artifactId>design-pattern</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
@@ -17,6 +17,7 @@
         <module>singleton</module>
         <module>factory-method</module>
         <module>abstract-factory</module>
+        <module>builder</module>
         <module>prototype</module>
     </modules>
 </project>

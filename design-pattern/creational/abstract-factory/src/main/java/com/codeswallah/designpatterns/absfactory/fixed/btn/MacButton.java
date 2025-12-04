@@ -1,4 +1,4 @@
-package com.codeswallah.absfactory.fixed.btn;
+package com.codeswallah.designpatterns.absfactory.fixed.btn;
 
 public class MacButton implements Button {
     @Override

@@ -1,4 +1,4 @@
-package com.codeswallah.absfactory.fixed.chk;
+package com.codeswallah.designpatterns.absfactory.fixed.chk;
 
 public class WinCheckbox implements Checkbox {
     @Override

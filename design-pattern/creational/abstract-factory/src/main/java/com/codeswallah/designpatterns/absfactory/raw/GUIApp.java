@@ -1,4 +1,4 @@
-package com.codeswallah.absfactory.raw;
+package com.codeswallah.designpatterns.absfactory.raw;
 
 public class GUIApp {
     public static void main(String[] args) {
