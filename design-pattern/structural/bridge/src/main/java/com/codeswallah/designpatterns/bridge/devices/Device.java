@@ -1,4 +1,4 @@
-package com.codeswallah.designpatterns.bridge;
+package com.codeswallah.designpatterns.bridge.devices;
 
 public interface Device {
     boolean isEnabled();

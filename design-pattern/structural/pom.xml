@@ -14,9 +14,8 @@
     <artifactId>structural</artifactId>
 
     <modules>
-<!--        <module>singleton</module>-->
-<!--        <module>factory-method</module>-->
-<!--        <module>abstract-factory</module>-->
-<!--        <module>prototype</module>-->
+        <module>adapter</module>
+        <module>bridge</module>
+<!--        <module>composite</module>-->
     </modules>
 </project>
