@@ -16,6 +16,6 @@
     <modules>
         <module>adapter</module>
         <module>bridge</module>
-<!--        <module>composite</module>-->
+        <module>composite</module>
     </modules>
 </project>

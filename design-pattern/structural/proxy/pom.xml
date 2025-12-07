@@ -3,11 +3,14 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <packaging>pom</packaging>
+    <parent>
+        <groupId>com.codeswallah</groupId>
+        <artifactId>design-pattern</artifactId>
+        <version>1.0-SNAPSHOT</version>
+        <relativePath>../../pom.xml</relativePath>
+    </parent>
 
-    <groupId>com.codeswallah</groupId>
-    <artifactId>design-pattern</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>proxy</artifactId>
 
     <properties>
         <maven.compiler.source>23</maven.compiler.source>
@@ -15,13 +18,4 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    <modules>
-        <module>creational</module>
-        <module>structural</module>
-        <module>behavioral</module>
-        <module>structural/decorator</module>
-        <module>structural/facade</module>
-        <module>structural/flyweight</module>
-        <module>structural/proxy</module>
-    </modules>
 </project>
